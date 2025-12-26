@@ -34,7 +34,7 @@ summary: "深入解析字节跳动Dola（原Cici）2025年表现。分析其8500
 
 * **品牌重塑：** 2025年初，字节跳动将海外版"豆包"（Cici）正式统一品牌为Dola，强化了"Data-Optimized Large Agent"（数据优化大型智能体）的品牌心智，剥离了"豆包"的中文语境色彩。
 
-（此处插入表格：2025年全球主流AI助手核心数据对比）
+（2025年全球主流AI助手核心数据对比）
 
 |   核心指标    | OpenAI (ChatGPT) | ByteDance (Dola) | Google (Gemini) | MiniMax (Talkie) |
 |-----------|------------------|------------------|-----------------|------------------|
@@ -68,7 +68,11 @@ Dola并非孤立存在，它是字节跳动底层模型能力的"浏览器"。
 
 * **OmniHuman技术：** Dola的虚拟人形象应用了OmniHuman技术，实现了口型与语音的像素级实时同步，这在教育（外语陪练）和虚拟伴侣场景中构建了极高的竞争壁垒。
 
-![2025年Dola用户交互模态分布变化趋势](http://admin.fuyaonews.com/profile/upload/20251226/download (16)_20251226095602A011.png)
+![download (16).png](http://admin.fuyaonews.com/profile/upload/20251226/download (16)_20251226095602A011.png)
+
+```
+
+```
 
 *图表深度解读：数据显示，随着Seedance模型的接入，Dola正迅速从文本工具向多模态内容平台转型，Q4视频/语音交互占比已接近半数。*
 
