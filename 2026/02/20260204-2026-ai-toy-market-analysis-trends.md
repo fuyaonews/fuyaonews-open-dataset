@@ -129,5 +129,5 @@ summary: "深度解析2026年AI玩具市场。涵盖480亿市场规模预测、A
 
 3. **国家互联网信息办公室** . [《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm). \[2023-07-13\].
 
-4. **IDC (International Data Corporation)** . [《China Smart Toy Market Forecast》](https://www.idc.com/). (注：此处引用机构常规发布的市场预测逻辑，具体未来年份报告链接随时间更新，建议访问官网查询最新研报).
+4. **IDC (International Data Corporation)** . [《China Smart Toy Market Forecast》](https://www.idc.com/).
 
