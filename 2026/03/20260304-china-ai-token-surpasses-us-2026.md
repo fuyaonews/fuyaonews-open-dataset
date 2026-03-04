@@ -68,15 +68,10 @@ Token产量的指数级上升，其物理形态即为海量电能的消耗。按
 📚 主要参考信源 {#ref-title}
 ----------------------
 
-* 每日经济新闻.
-  [《2月井喷！中国AI调用量首超美国，四款大模型霸榜全球前五，国产算力需求正经历指数级增长》](https://finance.sina.com.cn/roll/2026-02-26/doc-inhpcyyh4335692.shtml).
-  2026-02-26.
+* 每日经济新闻. [《2月井喷！中国AI调用量首超美国，四款大模型霸榜全球前五，国产算力需求正经历指数级增长》](https://finance.sina.com.cn/roll/2026-02-26/doc-inhpcyyh4335692.shtml). 2026-02-26.
 
 * 华创证券.
-  [《计算机：AI应用正当时：国产大模型调用量首超美国看好大模型出海与商业化落地进展加速》](https://stock.finance.sina.com.cn/stock/view/paper.php?symbol=sh000001&reportid=825900190378).
-  2026-03-03.
+  [《计算机：AI应用正当时：国产大模型调用量首超美国看好大模型出海与商业化落地进展加速》](https://stock.finance.sina.com.cn/stock/view/paper.php?symbol=sh000001&reportid=825900190378). 2026-03-03.
 
-* 华尔街见闻.
-  [《Token太贵，中国开源模型一夜之间霸榜了》](https://wallstreetcn.com/articles/3766364).
-  2026-02-27.
+* 华尔街见闻. [《Token太贵，中国开源模型一夜之间霸榜了》](https://wallstreetcn.com/articles/3766364). 2026-02-27.
 
